@@ -1,9 +1,16 @@
+# Build output
 bin/
 obj/
-.vs/
-token_store/
+
+# secrets
 client_secret.json
-Downloads/
-*.mp4
+token_store/
+
+# heavy files
 *.zip
 *.rar
+*.mp4
+*.pdf
+*.jpg
+*.png
+Downloads/
