@@ -1,0 +1,8 @@
+# Build output
+bin/
+obj/
+
+# Google auth secrets
+client_secret.json
+token_store/
+
