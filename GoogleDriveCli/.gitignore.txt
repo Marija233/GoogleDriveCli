@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+token_store/
+client_secret.json
+Downloads/
+*.mp4
+*.zip
+*.rar
