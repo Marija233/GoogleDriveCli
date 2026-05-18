@@ -2,7 +2,15 @@
 bin/
 obj/
 
-# Google auth secrets
+# secrets
 client_secret.json
 token_store/
 
+# heavy files
+*.zip
+*.rar
+*.mp4
+*.pdf
+*.jpg
+*.png
+Downloads/
